@@ -1,5 +1,0 @@
-Answer:
-3a:Hashing (Using Maping it will be fast as storage and retrieving will happen in constant time).
-3b: Hashing (Using Maping it will be fast as storage and retrieving will happen in constant time.
-3c:Linked List (Using LinkList data can be stored where ever appropriate space is available as location of 2 songs need not to be contigious). 
-3d: Stack (First in Last out)
